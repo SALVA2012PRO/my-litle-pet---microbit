@@ -1,4 +1,4 @@
-
+>[!NOTE]
 > Abra esta pagina en [https://salva2012pro.github.io/my-litle-pet---microbit/](https://salva2012pro.github.io/my-litle-pet---microbit/)
 
 ## Usar como extensión
