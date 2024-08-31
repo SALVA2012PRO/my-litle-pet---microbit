@@ -3,7 +3,7 @@ namespace Steve {
     export function Steve_Dance() {
         Dance2 = 1
     }
-    function Song_1() {
+    export function Song_1() {
         if (Dance2 == 1) {
             music.setVolume(145)
             music.play(music.stringPlayable("E - E - F - G - ", 200), music.PlaybackMode.UntilDone)
@@ -22,7 +22,7 @@ namespace Steve {
         . # # # .
         `)
     }
-    function Dance() {
+    export function Dance() {
         if (Dance2 == 1) {
             basic.showLeds(`
             . . # . #
